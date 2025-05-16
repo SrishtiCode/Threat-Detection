@@ -1,2 +1,3 @@
-# Algorithm
-Learning all new algorithm
+# Threat Detection
+Threat Detection is a real-time AI-powered system that detects harmful weapons like guns and knives using the YOLOv5 object detection model. Designed to enhance public and private security, the system processes live video streams from a web camera and identifies potential threats with high accuracy. It leverages deep learning, computer vision, and open-source tools like OpenCV and PyTorch, and is trained on a custom dataset from Roboflow. This project aims to assist security personnel with faster and more accurate threat identification in sensitive environments such as airports, schools, malls, and events.
+
